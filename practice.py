@@ -1,2 +1,2 @@
 print("hello world")
-print("vashawrc2025")
+print("WRC25")
