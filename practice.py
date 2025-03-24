@@ -1,4 +1,6 @@
 print("hello world")
 print("WRC25")
 print("data science at moringa")
-print("vscode")
+print("best WRC2025")
+print("what a wonderful WRC2025")
+print("1")
